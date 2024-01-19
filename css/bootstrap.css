@@ -196,6 +196,7 @@ figure {
 }
 
 img {
+  width: 300px;
   vertical-align: middle;
   border-style: none;
 }
